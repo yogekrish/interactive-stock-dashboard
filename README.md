@@ -22,6 +22,9 @@ With real-time data visualization and powerful analytics, Stockify helps busines
 - **Backend:** Node.js, Prisma
 - **Cloud & Database:** AWS (EC2, Amplify, S3, RDS, API Gateway)
 
+![image](https://github.com/user-attachments/assets/7a718f9f-b217-485b-ae26-59697713aa24)
+
+
 ## 🚀 Why Stockify?
 Stockify is built to streamline inventory management by offering a scalable, cloud-deployed solution with real-time updates, advanced analytics, and an exceptional user experience. Whether you’re a small business or a large enterprise, Stockify helps simplify stock tracking, enhance efficiency, and improve decision-making with ease.
 
