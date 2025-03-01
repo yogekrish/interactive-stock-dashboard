@@ -1,4 +1,4 @@
-# Stockify: Full Stack Real-time Inventory Analysis Dashboard - AWS Deployed🚀<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50">
+# Stockify: Full Stack Real-time Inventory Dashboard - AWS Deployed🚀<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50">
 
 Stockify is a highly interactive and intuitive stock management dashboard that enables real-time tracking and analysis of inventory data. Designed with a modern UI/UX, it provides a seamless experience for businesses to monitor stock levels, analyze trends, and optimize inventory decisions.
 
